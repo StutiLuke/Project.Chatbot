@@ -1,2 +1,2 @@
 # Project.TicTacToe
-Chatbot in python
+Tic Tac Toe game in python
